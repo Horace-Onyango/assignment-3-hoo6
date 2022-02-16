@@ -6,7 +6,11 @@ output: html_document
 ---
 
 ## Horace
+
+![](https://lh3.googleusercontent.com/D-6GvkAXj5P9erBstmjtofJqHCQTyUTSuFVObfQ9DwvJida8oWCUtoPgighSJlAgHiYBgCntxr5-LL5wnr7mf3jwXSDeumzFNVHlcM1wzAmXzJowdgDvvzQ0VOa7ViVSm79lsjIACI49TVk752ROtlyRAjTy9oYLe1gY7oJz6ah5k0fgYtYX99mX6FhjBxZRf4tOm6GbGrLAylnVlS1XaYfRWYJPuPodiYzg3h4i0cRKJRxor5ZXMG6YnzYoAXuOvjD_G2fBWkkLs98sOkAywxZ13Rxf76SQNLZrmqqCSFD9B0KkfkF4Kgzqgfq3wavc3rNEK7og4ZXcaYElZvXLeNWIdWtUyfIN1nov7xkqetKSwk53inaOK27JKkcoUDXFVqNwMY4f1kMrzxMxvHV0PR3DvZhJSAxnFu2auDon7sQgqSzLHr3CeRuN_Zc4RtTIDb_bIbh04XXRhC0WDXTTVw9VAZP-j_nMtal5aTjahZyL5lnl7U5buzoeUymdP5fevgmqDtR68Gin0Blbcpd-AoPLSmAZotgJ6BYttp4L4HpCx-fKfBFHzBh2mcOHpRd19-j2yD40DEQTxYY3QQuYv9SAFu-YFuIwE-n6JPKmjedZZLmCFWN8DJ0F6XjsTiHP2uAQzROHRjFlZPlxEVyJViquaJBz3p53ValOps3caBAScwGnLpgM-LP0IPcfDaaMnQ12n3tTqpSrWS2cwhonasdd=w499-h830-no?authuser=0)
+
   + Graduate student, Natural resources
-  + First year
+  + First year, PhD
+  + Research scientist, Kenya Marine and Fisheries Research Institute
 
 
